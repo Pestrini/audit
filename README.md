@@ -23,3 +23,12 @@ This solution won first place in [Hackribeirão 2019](https://www.facebook.com/e
 ## License
 
 [MIT](LICENSE)
+
+
+# Audit - Plataforma de Combate à Corrupção
+
+Este repositório é um fork do projeto **Audit**, uma plataforma digital focada em promover a transparência e integridade. 
+
+O objetivo principal do sistema é fornecer ferramentas tecnológicas para auxiliar na **identificação de fraudes** e no **combate à corrupção**, facilitando auditorias e monitoramentos.
+
+*Este repositório é um fork do projeto original criado para desenvolvimento e aprimoramento da plataforma.*
